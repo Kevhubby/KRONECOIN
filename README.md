@@ -1,0 +1,2 @@
+# KRONECOIN
+Mining
